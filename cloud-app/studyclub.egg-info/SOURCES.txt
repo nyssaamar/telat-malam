@@ -1,0 +1,9 @@
+setup.py
+studyclub/__init__.py
+studyclub/apiroutes.py
+studyclub/views.py
+studyclub.egg-info/PKG-INFO
+studyclub.egg-info/SOURCES.txt
+studyclub.egg-info/dependency_links.txt
+studyclub.egg-info/requires.txt
+studyclub.egg-info/top_level.txt

@@ -1,0 +1,21 @@
+INSERT INTO users (
+	username,
+	password,
+	email,
+	firstname,
+	lastname,
+	profileimage_url,
+	preference,
+	kind
+)
+
+VALUES (
+		'kakatuahiam',
+		crypt('pass', gen_salt('bf')),
+		crypt('yudakurnia.nurulfikri@gmail.com', gen_salt('bf')),
+		'Yuda Kurnia',
+		'Nurul Fikri',
+		'https://raw.githubusercontent.com/Kakatuahitam/kakatuahitam/main/kucing.jpg',
+		'{"sma", "ipa"}',
+		'admin'
+	);

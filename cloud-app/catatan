@@ -1,0 +1,24 @@
+=========================
+= Database:
+=========================
+
+install postgresql
+https://www.postgresql.org/download/linux/ubuntu/
+
+Login:
+sudo -u postgres psql
+password: pass
+
+
+=========================
+= Api server:
+=========================
+Make sure your working directory is ../telat-malam/cloud-app
+run to install the api server
+
+pip install -e .
+
+To run, 
+
+export FLASK_APP=studyclub
+flask run
