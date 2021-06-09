@@ -12,8 +12,9 @@ The students who have difficulties in learning activities because they do not ha
 * Train and evaluate to get higher accuracy
 * Test and predict result
 * Convert model from python to json
-* *Cloud*
-
+* 
+**Cloud**
+* 
 **Android Development**
 * Create Android User Flow
 * Design Activity Framework
